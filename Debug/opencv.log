@@ -1,0 +1,12 @@
+﻿  main.cpp
+c:\users\hosun\documents\visual studio 2015\projects\opencv\opencv\main.cpp(29): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\hosun\documents\visual studio 2015\projects\opencv\opencv\main.cpp(148): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\hosun\documents\visual studio 2015\projects\opencv\opencv\main.cpp(149): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\hosun\documents\visual studio 2015\projects\opencv\opencv\main.cpp(464): warning C4018: '<': signed/unsigned mismatch
+c:\users\hosun\documents\visual studio 2015\projects\opencv\opencv\main.cpp(473): warning C4018: '<': signed/unsigned mismatch
+c:\users\hosun\documents\visual studio 2015\projects\opencv\opencv\main.cpp(483): warning C4018: '<': signed/unsigned mismatch
+c:\users\hosun\documents\visual studio 2015\projects\opencv\opencv\main.cpp(484): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\hosun\documents\visual studio 2015\projects\opencv\opencv\main.cpp(500): warning C4018: '<': signed/unsigned mismatch
+c:\users\hosun\documents\visual studio 2015\projects\opencv\opencv\main.cpp(524): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  opencv.vcxproj -> C:\Users\hosun\Documents\Visual Studio 2015\Projects\opencv\Debug\opencv.exe
+  opencv.vcxproj -> C:\Users\hosun\Documents\Visual Studio 2015\Projects\opencv\Debug\opencv.pdb (Full PDB)
